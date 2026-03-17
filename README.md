@@ -1,4 +1,4 @@
-# Hi, I'm [Nick]
+# Hi, I'm **Nick**
 
 Since a young age, I had always been interested in the arts. Ever since high school, I acquired a great amount of Programming knowledge from sophomore year through senior year where I ultimately became a peer tutor for my high school, taking on tremendous responsibility, creating introductory programming lesson plans and teaching them to the students (The class was for Python).
 

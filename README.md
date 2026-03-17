@@ -4,7 +4,7 @@ Since a young age, I had always been interested in the arts. Ever since high sch
 
 Since graduating, I have combined the analytical side of myself with the creative side of myself to become a unique member of any team.
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,html,css,js,nodejs-light,expressjs-light,tailwind,py,unreal,blender,obs,vscode,windows)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,html,css,js,py,tailwind,unreal,blender,obs,vscode,windows)
 
 
 ## Current Project - NetSeaDF

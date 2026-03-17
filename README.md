@@ -4,6 +4,7 @@ Since a young age, I had always been interested in the arts. Ever since high sch
 
 Since graduating, I have combined the analytical side of myself with the creative side of myself to become a unique member of any team.
 
+## My Skills
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,html,css,js,py,tailwind,unreal,blender,obs,vscode,windows)
 
 
@@ -12,12 +13,12 @@ Software Engineering Intern - Opera Lab, URI GSO
 a cross-platform desktop application for mapping and data visualization of oceanographic datasets.
 
 
-### Familiar Libraries/Frameworks
+## Familiar Libraries/Frameworks
 * Python
   * xarray
   * numpy
-  * yolo
   * GSW
+  * yolo
   * os
 * JS
   * Leaflet

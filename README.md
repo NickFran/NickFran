@@ -11,6 +11,7 @@ Since graduating, I have combined the analytical side of myself with the creativ
 ## Current Project - NetSeaDF
 Software Engineering Intern - Opera Lab, URI GSO
 a cross-platform desktop application for mapping and data visualization of oceanographic datasets.
+![Github Repo](https://github.com/NickFran/NetSeaDF)
 
 
 ## Familiar Libraries/Frameworks

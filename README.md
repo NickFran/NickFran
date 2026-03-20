@@ -1,6 +1,6 @@
 # Hi, I'm **Nick**
 
-Since a young age, I had always been interested in the arts. Ever since high school, I acquired a great amount of Programming knowledge from sophomore year through senior year where I ultimately became a peer tutor for my high school, taking on tremendous responsibility, creating introductory programming lesson plans and teaching them to the students (The class was for Python).
+I would describe myself as half creative, half analytical. I have always been create since a little kid, and ever since high school, I had acquired a great amount of Programming knowledge from sophomore year through senior year. During this time I ultimately became a peer tutor for the same highschool I graduated from. Taking on tremendous responsibility, creating introductory programming lesson plans and teaching them to the students (The class was for Python).
 
 Since graduating, I have combined the analytical side of myself with the creative side of myself to become a unique member of any team.
 

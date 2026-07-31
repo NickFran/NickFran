@@ -28,7 +28,7 @@ Link: [NetSeaDF Github Repo](https://github.com/NickFran/NetSeaDF)
 * CSS
   * Tailwind
  
-  * 
+   
 <!--
 **NickFran/NickFran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

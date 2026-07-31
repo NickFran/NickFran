@@ -6,6 +6,12 @@ Since graduating, I have combined the analytical side of myself with the creativ
 ## My Skills
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,html,css,js,py,tailwind,unreal,blender,obs,vscode,windows)
 
+---------------------------------------------------------------------------------------------------
+
+# Hack The Box, CTF Cyber Apocalypse 2026, 
+### Placement: Top ``7%`` (global)
+<img width="1280" height="903" alt="image" src="https://github.com/user-attachments/assets/50212ccf-e417-4ca4-80a6-89bdcedceca0" />
+
 ----------------------------------------------------------------------------------------------------
 ## Current Project - NetSeaDF
 Software Engineering Intern - Opera Lab, URI GSO
@@ -21,13 +27,8 @@ Link: [NetSeaDF Github Repo](https://github.com/NickFran/NetSeaDF)
   * Node.js, Express.js, Electron, Leaflet, Apache Echarts
 * CSS
   * Tailwind
-
----------------------------------------------------------------------------------------------------
-
-# Hack The Box, CTF Cyber Apocalypse 2026, 
-### Placement: Top ``7%`` (global)
-<img width="1280" height="903" alt="image" src="https://github.com/user-attachments/assets/50212ccf-e417-4ca4-80a6-89bdcedceca0" />
-
+ 
+  * 
 <!--
 **NickFran/NickFran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -23,8 +23,8 @@ Link: [NetSeaDF Github Repo](https://github.com/NickFran/NetSeaDF)
 ## Familiar Libraries/Frameworks
 * Python
   * xarray, requests
-* JS
-  * Node.js, Express.js, Electron, Leaflet, Apache Echarts
+* JS / TS
+  * Node.js, Express.js, React, Zustand, Electron, Leaflet, Apache Echarts
 * CSS
   * Tailwind
  

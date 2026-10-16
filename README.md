@@ -1,7 +1,7 @@
 # Hi, I'm **Nick**
 
 I would describe myself as half creative, half analytical. I have always been that way since a little kid, and ever since high school, I have been programming. 
-Since graduating, I have combined the analytical side of myself with the creative side of myself to become a unique member of any team.
+Since then, I have combined the analytical side of myself with the creative side of myself to become a unique member of any team.
 
 ## My Skills
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,html,css,js,ts,py,tailwind,unreal,blender,obs,vscode,windows)
